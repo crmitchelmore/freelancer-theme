@@ -1,10 +1,12 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Chris Mitchelmore
+email: chrismitchelmore@gmail.com
+email-md5: a05a949a3cb8b7451ba048f5443b1481
+url: https://chrismitchelmore.com
+description: "Specialist iOS developer with full stack/startup experience and diverse skill set."
+skills: "iOS Developer - User Experience Designer - Full Stack MVP"
+meta_author: Chris Mitchelmore
+company-details: "Company Number: 09106123 VAT #: 193 0288 02 <br>Registered Address:  Office 5 The Chantry, Hadham Road, Bishops Stortford, Hertfordshire, CM23 2QR"
 
 # Google webmaster tools
 google_verify:
@@ -18,10 +20,6 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
@@ -31,32 +29,31 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Chris Mitchelmore
   location: Location
-  social: Around the Web
+  social: Around the web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+    url: http://twitter.com/crmitchelmore
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://stackoverflow.com/users/1453346/chris-mitchelmore
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/crmitchelmore
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Harrow
+  - line: London
+  - line: England
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Theme forked from <a href="https://github.com/jeromelachaud/freelancer-theme">jeromelachaud/freelancer-theme</a>.'
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']

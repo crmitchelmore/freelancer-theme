@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+date: 2014-06-01
+img: sabre400.png
+color: b94e64
+alt: Sabre app icon
+project-date: Mar 2013 — Jun 2014
+project-name: Sabre
+project-link: https://appsto.re/gb/M5tlM.i
+client: Bar Pass
+client-link: http://www.wearesabre.com/
+category: Startup, iOS Development
+description: First developer hired by the company. Built MVP iOS app/API to a strict deadline for launch at Queens tennis tournament. Co-designed and built version 2 and 3 of the app solo from scratch. Studied iOS unit/acceptance testing approaches and SDKs. Built a pseudo white labelling process with dynamic colouring of app sections. Supervised Android app development by outsourced team and in house. Participated in Microsoft Ventures accelerator. Learnt customer development and business model generation skills. Introduced agile development to the company and played scrum master. Collaborated with backend dev to build web app, Rails REST api and AWS server setup. Resolved situation when a contractor left mid project by completing backbone web app.
+skills: git, Objective-C, Ruby, Location Services, UX Design, Maps, Navigation, Social Integration, Core Data, Magical Record, Custom UI, View Controller transitions, API Design, API Driven app templates, Backbone, JSON, Stripe Integration, JudoPay Integration, PayPal Integration
+---

@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 7
+date: 2015-07-14
+img: fiveguys144.png
+color: 272822
+alt: image-alt
+project-date: May 2015 — July 2015
+project-name: Five Guys Apple Pay
+project-link: https://appsto.re/gb/OoUUO.i
+client: Lineten
+client-link: https://www.fiveguys.co.uk
+category: Consultancy
+description: For the UK launch of Apple Pay I built the front and backend integration with their wrapper app. The main challenge was reliably maintaining integrity across a JS bridge and working with the payment provider to reduce the number of round trips required.
+skills: git, Objective-C, Wrapper App, Judo Pay Integration, Apple Pay, Javascript Bridge
+---

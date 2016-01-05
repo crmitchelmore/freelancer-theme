@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 2
+date: 2015-06-01
+img: hbros180.png
+color: 2ba4b5
+alt: image-alt
+project-date: Jul 2014 — Jun 2015
+project-name: Hummus Bros
+project-link: https://appsto.re/gb/rBh34.i
+client: Lineten
+client-link: https://hbros.co.uk/new/home.php
+category: Consultancy
+description: Advised business model development. Directed technology stack choices from legacy style hosting and frameworks to SAAS. Scripted automatic build and submission of white label iOS app from web admin panel settings. Integrated 3rd party APIs in PHP (PayPal, NetPay, Fourth and Synergy). Worked on a variety of whitelabeled ecommerce apps (one being Hummus Bros app).
+skills: git, Objective-C, PHP, Location Services, UX Design, Maps, API Design, Apple Pay, Open Cart, Application Architecture, 3rd Party Integration, Payment Processing, Wrapper App
+---

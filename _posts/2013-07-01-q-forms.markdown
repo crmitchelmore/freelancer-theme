@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 8
+date: 2013-07-01
+img: q-forms400.png
+color: 2ba4b5
+alt: image-alt
+project-date: Sep 2012 — Jul 2013
+project-name: "Q-Forms"
+project-link: https://flic.kr/s/aHsjErYkDk
+client: I-Ngenious
+client-link: http://www.i-ngenious.com/
+category: Contracting
+description: MVP app, custom fileformat, calculated fields, localisation, customisable UI. Managed expectations of demanding client and set realistic delivery dates and cutoff points. Built a comprehensive form/survey creation app for iPad with a custom file/display format. 
+skills: git, Objective-C, Core Data, Graphing, UIKit
+---

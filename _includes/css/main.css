@@ -79,6 +79,28 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.img-circle {
+    border-radius: 50%;
+}
+
+.app-icon {
+    position           : relative;
+    display            : inline-block;
+    width              : 160px;
+    height             : 160px;
+    margin             : 30px;
+    border-radius      : 28px;
+    -webkit-box-sizing : border-box;
+    -moz-box-sizing    : border-box;
+    box-sizing         : border-box; 
+}
+
+.app-icon .large{
+    width              : 240px;
+    height             : 240px;
+    border-radius      : 42px;
+}
+
 header {
     text-align: center;
     color: #fff;
@@ -197,6 +219,7 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    text-align: center;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -442,6 +465,14 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.modal-description {
+    text-align: left;
+}
+
+.text-very-small {
+    font-size: 0.75em;
 }
 
 .navbar-nav>.active>a {

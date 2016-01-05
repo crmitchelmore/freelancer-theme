@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 3
+date: 2015-12-01
+img: octer300.png
+color: f8f8f2
+alt: image-alt
+project-date: Jul 2015 — Dec 2015
+project-name: Octer
+project-link: https://appsto.re/gb/ZSJY4.i
+client: Shareight
+client-link: http://www.octer.com/
+category: Startup, E-Commerce
+description: "2 person self organising iOS team implementing new features to the existing app. Maintaining and refactoring legacy code. Mainly fixing small bugs and performances issues as well as refactoring old code. Feature work: Search/Filtering/Social Sharing/Saved products/UI Flow."
+skills: git, Objective-C, HATEOS, Social Integration, Performance Optimisation, Custom UI
+---

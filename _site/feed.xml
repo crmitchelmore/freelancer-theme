@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Mitchelmore</title>
+    <description>Specialist iOS developer with full stack/startup experience and diverse skill set.</description>
+    <link>https://chrismitchelmore.com/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 05 Jan 2016 15:49:43 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2016 15:49:43 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Code Sample</title>
+        <description>sample</description>
+        <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+        <link>https://chrismitchelmore.com/sample%20project/2015/12/15/code-sample/</link>
+        <guid isPermaLink="true">https://chrismitchelmore.com/sample%20project/2015/12/15/code-sample/</guid>
+        
+        
+        <category>Sample Project</category>
+        
+      </item>
+    
+      <item>
+        <title>Octer</title>
+        <description>2 person self organising iOS team implementing new features to the existing app. Maintaining and refactoring legacy code. Mainly fixing small bugs and performances issues as well as refactoring old code. Feature work: Search/Filtering/Social Sharing/Saved products/UI Flow.</description>
+        <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+        <link>https://chrismitchelmore.com/startup,%20e-commerce/2015/12/01/octer/</link>
+        <guid isPermaLink="true">https://chrismitchelmore.com/startup,%20e-commerce/2015/12/01/octer/</guid>
+        
+        
+        <category>Startup, E-Commerce</category>
+        
+      </item>
+    
+      <item>
+        <title>Five Guys</title>
+        <description>For the UK launch of Apple Pay I built the front and backend integration with their wrapper app. The main challenge was reliably maintaining integrity across a JS bridge and working with the payment provider to reduce the number of round trips required.</description>
+        <pubDate>Tue, 14 Jul 2015 00:00:00 +0100</pubDate>
+        <link>https://chrismitchelmore.com/consultancy/2015/07/14/five-guys/</link>
+        <guid isPermaLink="true">https://chrismitchelmore.com/consultancy/2015/07/14/five-guys/</guid>
+        
+        
+        <category>Consultancy</category>
+        
+      </item>
+    
+      <item>
+        <title>Lineten</title>
+        <description>Advised business model development. Directed technology stack choices from legacy style hosting and frameworks to SAAS. Scripted automatic build and submission of white label iOS app from web admin panel settings. Integrated 3rd party APIs in PHP (PayPal, NetPay, Fourth and Synergy). Worked on a variety of whitelabeled ecommerce apps (one being Hummus Bros app).</description>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 +0100</pubDate>
+        <link>https://chrismitchelmore.com/consultancy/2015/06/01/lineten/</link>
+        <guid isPermaLink="true">https://chrismitchelmore.com/consultancy/2015/06/01/lineten/</guid>
+        
+        
+        <category>Consultancy</category>
+        
+      </item>
+    
+      <item>
+        <title>Barpass</title>
+        <description>First developer hired by the company. Built MVP iOS app/API to a strict deadline for launch at Queens tennis tournament. Co-designed and built version 2 and 3 of the app solo from scratch. Studied iOS unit/acceptance testing approaches and SDKs. Built a pseudo white labelling process with dynamic colouring of app sections. Supervised Android app development by outsourced team and in house. Participated in Microsoft Ventures accelerator. Learnt customer development and business model generation skills. Introduced agile development to the company and played scrum master. Collaborated with backend dev to build web app, Rails REST api and AWS server setup. Resolved situation when a contractor left mid project by completing backbone web app.</description>
+        <pubDate>Sun, 01 Jun 2014 00:00:00 +0100</pubDate>
+        <link>https://chrismitchelmore.com/startup,%20ios%20development/2014/06/01/barpass/</link>
+        <guid isPermaLink="true">https://chrismitchelmore.com/startup,%20ios%20development/2014/06/01/barpass/</guid>
+        
+        
+        <category>Startup, iOS Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Q Forms</title>
+        <description>MVP app, custom fileformat, calculated fields, localisation, customisable UI. Managed expectations of demanding client and set realistic delivery dates and cutoff points. Built a comprehensive form/survey creation app for iPad with a custom file/display format.</description>
+        <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+        <link>https://chrismitchelmore.com/contracting/2013/07/01/q-forms/</link>
+        <guid isPermaLink="true">https://chrismitchelmore.com/contracting/2013/07/01/q-forms/</guid>
+        
+        
+        <category>Contracting</category>
+        
+      </item>
+    
+      <item>
+        <title>Orienteering</title>
+        <description>Provided guidance on mobile product development to not technical company. Designed and developed an app to replace mechanical stamping around orienteering courses.</description>
+        <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+        <link>https://chrismitchelmore.com/full%20stack%20startup%20mvp/2013/07/01/orienteering/</link>
+        <guid isPermaLink="true">https://chrismitchelmore.com/full%20stack%20startup%20mvp/2013/07/01/orienteering/</guid>
+        
+        
+        <category>Full Stack Startup MVP</category>
+        
+      </item>
+    
+      <item>
+        <title>Tennis Stats</title>
+        <description>Designed and built App for tennis coaches to track performance of players</description>
+        <pubDate>Sat, 01 Sep 2012 00:00:00 +0100</pubDate>
+        <link>https://chrismitchelmore.com/startup/2012/09/01/tennis-stats/</link>
+        <guid isPermaLink="true">https://chrismitchelmore.com/startup/2012/09/01/tennis-stats/</guid>
+        
+        
+        <category>Startup</category>
+        
+      </item>
+    
+  </channel>
+</rss>
